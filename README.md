@@ -1,13 +1,10 @@
 # [NextJS](https://nextjs.org/) Steam Authentication using [`iron-session`](https://github.com/vvo/iron-session)
 
 ## 📖 Table of Contents
-
-- [NextJS Steam Authentication using `iron-session`](#nextjs-steam-authentication-using-iron-session)
-  - [📖 Table of Contents](#-table-of-contents)
-  - [👋 Introduction](#-introduction)
-  - [🔌 Getting Started](#-getting-started)
-  - [💡 What to do next](#-what-to-do-next)
-  - [📚 Helpful Resources](#-helpful-resources)
+- [👋 Introduction](#-introduction)
+- [🔌 Getting Started](#-getting-started)
+- [💡 What to do next](#-what-to-do-next)
+- [📚 Helpful Resources](#-helpful-resources)
 
 ## 👋 Introduction
 
